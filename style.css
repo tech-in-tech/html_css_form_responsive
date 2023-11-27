@@ -63,3 +63,12 @@ body {
 .form-container input{
     color: rgb(2, 2, 85);
 }
+.submit{
+    height: 35px;
+    width: 40%;
+    margin: 0px 130px;
+    background-color: rgb(199, 209, 248);
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+}
